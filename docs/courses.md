@@ -35,6 +35,7 @@ Here's a list of all the courses (and their current state):
        - [Lezione 06/10](https://stem.elearning.unipd.it/mod/resource/view.php?id=213397)
        - [Lezione 07/10](https://stem.elearning.unipd.it/mod/resource/view.php?id=214507)
        - [Lezione 10/10](https://stem.elearning.unipd.it/mod/resource/view.php?id=215797)
+       - [Lezione 13/10](https://stem.elearning.unipd.it/mod/resource/view.php?id=216985)
 
 ## Old courses
 
